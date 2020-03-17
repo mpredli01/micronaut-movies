@@ -2,7 +2,7 @@
 
 ### InfoQ Java Queue
 
-#### published March xx, 2020
+#### published March 18, 2020
 
 This example demonstrates a Micronaut Data using SQL/JDBC.
 
