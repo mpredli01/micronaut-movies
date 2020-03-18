@@ -4,7 +4,7 @@
 
 #### published March 18, 2020
 
-This example demonstrates a Micronaut Data using SQL/JDBC.
+This example demonstrates Micronaut Data using SQL/JDBC and is adapted from one of the Micronaut Data [examples](https://github.com/micronaut-projects/micronaut-data/tree/master/examples).
 
 ## Example Structure
 
